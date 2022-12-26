@@ -8,7 +8,7 @@ weight: 1
 hack.bs is a non-profit [cypherpunk]({{< ref "cypherpunks" >}}) hackerspace located in Brescia, Italy. Our mission is to provide a space where people can learn about technology, open-source, privacy and freedom, and connect with other
 like-minded individuals. We are a space for hackers, designed by hackers.
 
-We plan to regularly host workshops, meetups, hackathons and more, open to the public.
+We plan to regularly host workshops, meetups, hackathons and more, open to everybody.
 
 We are funded through voluntary contributions from individuals and private companies: if you want to support our project you can also [make a donation]({{< ref "donate" >}}).
 We have a [transparency]({{< ref "transparency" >}}) page to show exactly how we allocate our funds.
