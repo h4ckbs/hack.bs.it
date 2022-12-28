@@ -5,7 +5,7 @@ menu: "main"
 weight: 1
 ---
 
-hack.bs è un hackerspace [cypherpunk]({{< ref "cypherpunks" >}}) non-profit a Brescia. Il nostro scopo è di offrire uno spazio dove appassionati di tecnologia possano condividere conoscenze, creare software open-source, discutere di privacy e libertà, e coltivare relazioni interpersonali.
+hack.bs è un hackerspace [cypherpunk]({{< ref "cypherpunks" >}}) non-profit situato a Brescia. Il nostro scopo è di offrire uno spazio dove sviluppatori, hacker, studenti e tecno-curiosi possano incontrarsi e imparare gli uni dagli altri, scrivendo software open source, sviluppando su Bitcoin, parlando di privacy e libertá. Siamo uno spazio per hacker, creato da hacker.
 
 Ospiteremo regolarmente eventi aperti a tutti, come workshop, meetup, hackathon e tanto altro.
 
@@ -29,4 +29,4 @@ hack.bs è la creazione di Alekos Filini e Daniela Brozzoni, due sviluppatori Bi
 
 ## Community
 
-La nostra community è formata da circa 20 membri, tutti in trepidante attesa dell'apertura.
+La nostra community è formata da circa 20 membri, tra cui sviluppatori, ricercatori, designer e studenti.

@@ -4,7 +4,7 @@ date: 2022-12-15T23:28:36+01:00
 menu: "main"
 ---
 
-# A Cypherpunk's Manifesto
+# Il manifesto Cypherpunk
 
 > La privacy è necessaria per una società aperta nell’era elettronica. La privacy non è segretezza. Una questione privata è qualcosa che non si vuole che il mondo intero sappia, ma una questione segreta è qualcosa che non si vuole che nessuno sappia. La privacy è il potere di rivelarsi selettivamente al mondo.
 >
