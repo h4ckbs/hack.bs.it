@@ -65,6 +65,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "hack.bs"
+      logoHomeLink = "/"
 
   [languages.it]
     languageName = "Italiano"
@@ -84,3 +85,4 @@ paginate = 5
 
     [languages.it.params.logo]
       logoText = "hack.bs"
+      logoHomeLink = "/it"
