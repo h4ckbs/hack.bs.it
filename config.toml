@@ -43,18 +43,18 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  creator = "h4ckbs"
+  site = "h4ckbs"
 
 [languages]
   [languages.en]
     languageName = "English"
     contentDir = 'content/en'
     title = "hack.bs"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "A space for hackers, designed by hackers"
     owner = ""
-    keywords = ""
-    copyright = ""
+    keywords = "hackerspace, bitcoin, cypherpunk, brescia, italy"
+    copyright = "hack.bs"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -71,10 +71,10 @@ paginate = 5
     languageName = "Italiano"
     contentDir = 'content/it'
     title = "hack.bs"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Uno spazio per hacker, inventato da hacker"
     owner = ""
-    keywords = ""
-    copyright = ""
+    keywords = "hackerspace, bitcoin, cypherpunk, brescia, italia"
+    copyright = "hack.bs"
     menuMore = "Mostra di più"
     readMore = "Leggi di più"
     readOtherPosts = "Leggi altri post"
