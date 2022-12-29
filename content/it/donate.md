@@ -26,4 +26,4 @@ I fondi raccolti con questa campagna verrano principalmente spesi in (senza un o
 
 ## Campagna
 
-{{< iframe "https://pay.btcpricetshirt.com/apps/smuY6RKVnv3fRgSB2Eq73krdgrt/crowdfund" >}}
+{{< iframe "https://pay.btcpricetshirt.com/apps/e3DTKDJajGrw5brS6V6fcZsDk4g/crowdfund" >}}

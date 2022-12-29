@@ -1,6 +1,7 @@
-baseurl = "/"
+baseurl = "https://hack.bs.it/"
 theme = "terminal"
 defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
 paginate = 5
 
 [params]
