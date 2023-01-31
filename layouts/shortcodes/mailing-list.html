@@ -1,4 +1,5 @@
-<form method="post" action="/mailing-list-subscribe" style="display: flex">
+<form method="post" action="https://listmonk.hack.bs.it/subscription/form" style="display: flex">
     <input name="email" type="email" placeholder="email@example.org" style="flex-grow: 1; margin-right: 8px;" />
-    <input type="submit" value="Subscribe" />
+    <input type="hidden" name="l" value="{{ .Get 1 }}" />
+    <input type="submit" value="{{ .Get 0 }}" />
 </form>

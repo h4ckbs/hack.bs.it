@@ -6,6 +6,7 @@ menu: "main"
 
 Se vuoi rimanere aggiornato, ricevere notizie sull'hackerspace, promemoria di eventi, e tanto altro, puoi iscriverti alla nostra mailing list. 
 
-Per preservare la tua privacy non usiamo nessun servizio di terze parti per processare i tuoi dati - usiamo solo un buon vecchio file di testo sul nostro computer.
+Per preservare la tua privacy non usiamo nessun servizio di terze parti per processare i tuoi dati: hostiamo la nostra istanza di Listmonk
+sui nostri server!
 
-{{< mailing-list >}}
+{{< mailing-list "Iscriviti" "1d02efac-cfe2-49bb-b82c-4170e0e942ba" >}}

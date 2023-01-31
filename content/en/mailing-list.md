@@ -6,6 +6,7 @@ menu: "main"
 
 If you'd like to receive updates about our hackerspace, event reminders, and more you can subscribe to our mailing list.
 
-To preserve your privacy we don't use any third-party service provider to collect and process your data. It's just a good ol' text file on our laptops.
+To preserve your privacy we don't use any third-party service provider to collect and process your data: we have our own instance of
+Listmonk, hosted on our servers!
 
-{{< mailing-list >}}
+{{< mailing-list "Subscribe" "eb224abf-1b88-4d54-9fff-c539f528cbca" >}}
