@@ -38,7 +38,7 @@ a spedirle ai nostri sostenitori.
 
 ## Video
 
-Vogliamo chiudere questo post mostrandovi un video dello spazio[^1]. Al momento è molto disordinato, ma tenete presente che è solo il nostro punto di partenza. Ci sono due piani ripresi in due video differenti:
+Vogliamo chiudere questo post mostrandovi un video dello spazio. Al momento è molto disordinato, ma tenete presente che è solo il nostro punto di partenza. Ci sono due piani ripresi in due video differenti:
 
 {{< side-by-side >}}
     {{< video preload="metadata" css="margin-right: 10px;" >}}
@@ -63,5 +63,3 @@ Non vediamo l'ora di completare i lavori di ristrutturazione e di accogliere pre
 -----
 
 *Questo blog post è stato tradotto dall'inglese usando ChatGPT*
-
-[^1]: Il video è stato in realtà girato per l'elettricista, motivo per cui si concentra particolarmente sui lampadari. In ogni caso, mostra abbastanza bene lo spazio, quindi abbiamo deciso di postarlo anche qui. È il migliore che abbiamo finora.

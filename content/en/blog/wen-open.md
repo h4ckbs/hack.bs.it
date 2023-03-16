@@ -41,7 +41,7 @@ Other than the office everything else seems to be moving forward quite nicely. S
 
 ## Video
 
-We want to close this post by showing you a video of the space[^1]. It's really messy at the moment, but keep in mind this is just our starting point. There are two floors filmed in two different videos:
+We want to close this post by showing you a video of the space. It's really messy at the moment, but keep in mind this is just our starting point. There are two floors filmed in two different videos:
 
 {{< side-by-side >}}
     {{< video preload="metadata" css="max-width: calc(50% - 5px); margin-right: 10px;" >}}
@@ -61,8 +61,6 @@ The basement will become our "garage", where the noisy stuff will go. Think abou
 -------
 
 In conclusion, we are very excited about the progress we have made in setting up hack.bs. We couldn't have done it without the support of our community, and we are grateful for every donation, grant, and word of encouragement that we have received.
-We are looking forward to completing the renovation work and welcoming visitors to our new space soon. [Stay tuned]({{< ref "mailing-list" >}}) for more updates on our progress, and thank you for being a part of this journey with us.[^2]
+We are looking forward to completing the renovation work and welcoming visitors to our new space soon. [Stay tuned]({{< ref "mailing-list" >}}) for more updates on our progress, and thank you for being a part of this journey with us.[^1]
 
-[^1]: The video was actually filmed for the electrician, which is why it's focusing so much on the light fixtures. Either way, it shows the space pretty well, so we decided to post it here as well. It's the best one
-we have so far.
-[^2]: This closing paragraph was written by ChatGPT, and is so much better than anything else we could have written ourselves.
+[^1]: This closing paragraph was written by ChatGPT, and is so much better than anything else we could have written ourselves.
