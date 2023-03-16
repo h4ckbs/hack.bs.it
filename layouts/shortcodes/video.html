@@ -1,0 +1,6 @@
+<video class="video-shortcode" preload="{{ .Get "preload" }}" class="{{ .Get "class" }}" style="{{ .Get "css" | safeCSS }}" controls>
+    {{.Inner}}
+
+    There should have been a video here but your browser does not seem
+    to support it.
+</video>
