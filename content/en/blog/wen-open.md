@@ -34,7 +34,7 @@ Other than the office everything else seems to be moving forward quite nicely. S
    to us in the past few months.
 3. Finalized the design of the t-shirts: we settled for two awesome designs, and already placed an order for 100 of them (50 of each type). They will be ready by the end of next week, and afterwards we will start
    shipping them out to our supporters.
-4. Speaking of supporters, we've also received an unbelivable amount of support from the Bitcoin community: we are now at 5k+ EUR of donations received, plus a [2.1M sats grant](https://twitter.com/geyserfund/status/1628846611337019396) from [Geyser](https://geyser.fund).
+4. Speaking of supporters, we've also received an unbelievable amount of support from the Bitcoin community: we are now at 5k+ EUR of donations received, plus a [2.1M sats grant](https://twitter.com/geyserfund/status/1628846611337019396) from [Geyser](https://geyser.fund).
 5. We've been doing PR work, speaking about the space at a few events and podcasts, namely: [Builders In Bitcoin EP #27](https://twitter.com/buildersinbtc/status/1630704365848653826), [Citadel Dispatch EP #87](https://twitter.com/ODELL/status/1623025159375589376) and [Priorato del Bitcoin](https://twitter.com/danielabrozzoni/status/1619983641219825664).
 6. Lastly, we've been working on furnishing the place, and we've already taken delivery of a few desks, chairs and one large sofa. We have more of them coming soon, but we are pausing deliveries until the renovation
    work is done.
