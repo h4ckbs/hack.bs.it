@@ -22,7 +22,7 @@ La nostra pagina di [trasparenza]({{< ref "transparency" >}}) mostra nel dettagl
 
 ## Community
 
-La nostra community è formata da circa 30 membri, tra cui sviluppatori, ingegneri, designer, studenti, sviluppatori e tuttofare.
+La nostra community è formata da circa 30 membri, tra cui sviluppatori, ingegneri, designer, studenti, ricercatori e tuttofare.
 
 ## Fondatori
 
