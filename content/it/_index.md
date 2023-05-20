@@ -5,28 +5,25 @@ menu: "main"
 weight: 1
 ---
 
-hack.bs è un hackerspace [cypherpunk]({{< ref "cypherpunks" >}}) non-profit situato a Brescia. Il nostro scopo è di offrire uno spazio dove sviluppatori, hacker, studenti e tecno-curiosi possano incontrarsi e imparare gli uni dagli altri, scrivendo software open source, sviluppando su Bitcoin, parlando di privacy e libertá. Siamo uno spazio per hacker, creato da hacker.
+hack.bs è un hackerspace [cypherpunk]({{< ref "cypherpunks" >}}) non-profit situato a Brescia. Il nostro scopo è di offrire uno spazio dove sviluppatori, hacker, studenti e tecno-curiosi possano incontrarsi e imparare gli uni dagli altri, scrivendo software open source, sviluppando su Bitcoin, parlando di privacy e libertá.
 
-Ospiteremo regolarmente eventi aperti a tutti, come workshop, meetup, hackathon e tanto altro.
+{{< framed >}}
+
+Siamo uno spazio per hacker, creato da hacker.
+
+{{< /framed >}}
+
+La nostra sede è vicino alla metro Vittoria, in Contrada del Cavalletto 24, Brescia.
+
+Ospiteremo regolarmente eventi aperti a tutti, come workshop, meetup, hackathon e tanto altro. Se vuoi rimanere aggiornato, iscriviti alla nostra [mailing list]({{< ref "mailing-list" >}}) o seguici su [Twitter](https://twitter.com/h4ckbs) and [Instagram](https://instagram.com/h4ckbs).
 
 Siamo finanziati attraverso contribuzioni volontarie da individui e aziende private: se vuoi supportarci, considera di [fare una donazione]({{< ref "donate" >}}).
 La nostra pagina di [trasparenza]({{< ref "transparency" >}}) mostra nel dettaglio come gestiamo i fondi raccolti.
 
-{{< framed >}} 
-## Coming Soon
+## Community
 
-Al momento stiamo lavorando per aprire l'entità legale e trovare uno spazio fisico adatto. Apriremo al pubblico nel primo trimestre del 2023.
-
-Puoi aiutarci a coprire i costi iniziali di affitto, mobili e hardware con una [donazione]({{< ref "donate" >}}) alla nostra campagna di crowdfunding. Accettiamo solo pagamenti in Bitcoin.
-
-Se vuoi rimanere aggiornato, iscriviti alla nostra [mailing list]({{< ref "mailing-list" >}}).
-
-{{< /framed >}}
+La nostra community è formata da circa 30 membri, tra cui sviluppatori, ingegneri, designer, studenti, sviluppatori e tuttofare.
 
 ## Fondatori
 
-hack.bs è la creazione di Alekos Filini e Daniela Brozzoni, due sviluppatori Bitcoin che al momento lavorano alla libreria open-source [Bitcoin Dev Kit](https://bitcoindevkit.org).
-
-## Community
-
-La nostra community è formata da circa 20 membri, tra cui sviluppatori, ricercatori, designer e studenti.
+hack.bs è stato fondato da [Alekos Filini](https://twitter.com/afilini) e [Daniela Brozzoni](https://twitter.com/danielabrozzoni).
