@@ -25,7 +25,7 @@ We have a [transparency]({{< ref "transparency" >}}) page to show exactly how we
 
 Our hackerspace lives in the night, from 5PM to 5AM in the weekdays, and all day in the weekends. Only members can enter the space - the membership cost is 10€/year. Just a few trusted people have the keys to the space, so if you're not part of the hackbs elite ping us before coming.
 
-We are working on deploying a Matrix server, but in the meantime, feel free to send us a message either on our Instagram/Twitter, or on Telegram to [@danielabrozzoni](t.me/danielabrozzoni) or [@afilini](t.me/afilini).
+We are working on deploying a Matrix server, but in the meantime, feel free to send us a message either on our Instagram/Twitter, or on Telegram to [@danielabrozzoni](https://t.me/danielabrozzoni) or [@afilini](https://t.me/afilini).
 
 ## Community
 
