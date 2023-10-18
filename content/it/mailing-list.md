@@ -1,7 +1,6 @@
 ---
 title: "Mailing List"
 date: 2022-12-15T23:48:06+01:00
-menu: "main"
 ---
 
 Se vuoi rimanere aggiornato, ricevere notizie sull'hackerspace, promemoria di eventi, e tanto altro, puoi iscriverti alla nostra mailing list. 

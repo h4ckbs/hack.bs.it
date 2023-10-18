@@ -2,7 +2,7 @@
 title: "Fai una donazione"
 date: 2022-12-15T23:47:41+01:00
 menu: "main"
-weight: 2
+weight: 5
 ---
 
 Puoi supportare il nostro progetto donando Bitcoin, sia on-chain che via Lightning, alla nostra campagna di crowdfunding.

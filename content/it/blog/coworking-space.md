@@ -30,6 +30,8 @@ Abbonamento trimestrale: 300€
 
 {{< /framed >}}
 
+Siamo aperti tutti i giorni, dal Lunedí al Venerdí, dalle 9:00 alle 18:00.
+
 Per via dei posti limitati, siamo obbligati a implementare una lista d'attesa. Se sei interessato al nostro coworking, registrati [qui](https://forms.hack.bs.it/form/5V9yVl). Ti contatteremo al piú presto!
 
 Ricordiamo che il coworking space è aperto solo ai membri; il costo della membership è di 10€ all'anno, e si puó sottoscrivere direttamente in sede.

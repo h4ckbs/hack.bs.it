@@ -2,7 +2,7 @@
 title: "Donate"
 date: 2022-12-15T23:48:01+01:00
 menu: "main"
-weight: 2
+weight: 5
 ---
 
 You can support our project by donating Bitcoin, either on-chain or via Lightning, to our campaign below.

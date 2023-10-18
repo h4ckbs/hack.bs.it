@@ -13,7 +13,7 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 7
 
   # show selector to switch language
   showLanguageSelector = true

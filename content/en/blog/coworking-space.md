@@ -55,9 +55,9 @@ We have plans to expand the shop and eventually open an online store. Stay tuned
 
 In the past few months, we've organized various events, including:
 
-Monthly meetup - once a month, a meetup with a presentation followed by dinner
-Satoshi Spritz Brescia - an informal meetup for Bitcoin enthusiasts in Brescia
-Hackerspace nights - once a week, members gather at our location to work on various projects related to the space
+- Monthly meetup - once a month, a meetup with a presentation followed by dinner
+- Satoshi Spritz Brescia - an informal meetup for Bitcoin enthusiasts in Brescia
+- Hackerspace nights - once a week, members gather at our location to work on various projects related to the space
 
 We plan to continue organizing these events and start film clubs (nights where we watch a movie all together and discuss it), hackathons (programming competitions), informal meetups, and much more!
 
@@ -67,8 +67,8 @@ We plan to continue organizing these events and start film clubs (nights where w
 
 To stay updated, follow us on our social media:
 
-Twitter - @h4ckbs
-Instagram - @h4ckbs
-Telegram Channel (in italian) - hack.bs
+- Twitter - @h4ckbs
+- Instagram - @h4ckbs
+- Telegram Channel (in italian) - hack.bs
 
 Until next time!
