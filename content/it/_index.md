@@ -15,20 +15,28 @@ Siamo uno spazio per hacker, creato da hacker.
 
 La nostra sede è vicino alla metro Vittoria, in Contrada del Cavalletto 24, Brescia.
 
-Ospiteremo regolarmente eventi aperti a tutti, come workshop, meetup, hackathon e tanto altro. Se vuoi rimanere aggiornato, iscriviti alla nostra [mailing list]({{< ref "mailing-list" >}}) o seguici su [Twitter](https://twitter.com/h4ckbs) and [Instagram](https://instagram.com/h4ckbs).
+Durante il giorno la nostra sede ospita un [coworking space]({{< ref "coworking" >}}), invece la sera e nei weekend organizziamo [eventi]({{< ref "eventi" >}}) come workshop, meetup, hackathon e tanto altro.
 
-Siamo finanziati attraverso contribuzioni volontarie da individui e aziende private: se vuoi supportarci, considera di [fare una donazione]({{< ref "donate" >}}).
+Siamo finanziati principalemente attraverso contribuzioni volontarie da individui e aziende private: se vuoi supportarci, considera di [fare una donazione]({{< ref "donate" >}}).
 La nostra pagina di [trasparenza]({{< ref "transparency" >}}) mostra nel dettaglio come gestiamo i fondi raccolti.
 
-## Come funziona
+## Membership
 
-Il nostro hackerspace vive di notte, dalle 5 di sera alle 5 di mattina nei giorni infrasettimanali, e tutto il giorno nei weekend. Solo i membri possono entrare nello spazio - la membership costa 10€ l'anno. Solo pochi fidati hanno le chiavi per aprire lo spazio, quindi se non sei parte dell'élite di hackbs, mandaci un messaggio prima di passare.
+Essendo una non-profit, l'accesso allo spazio è limitato ai soli membri - ma non disperare, diventare membro non è difficile! Il costo della membership è di 10€ l'anno, e ci si puó iscrivere direttamente in sede.
 
-Stiamo lavorando a _deployare_ il nostro server Matrix, ma nel frattempo, puoi scriverci su Instagram, Twitter, o su Telegram a [@danielabrozzoni](https://t.me/danielabrozzoni) o [@afilini](https://t.me/afilini).
+## Contatti
 
-## Community
+Se vuoi rimanere aggiornato, ricevere notizie sull'hackerspace, promemoria di eventi, e tanto altro, puoi iscriverti alla nostra mailing list:
 
-La nostra community è formata da circa 30 membri, tra cui sviluppatori, ingegneri, designer, studenti, ricercatori e tuttofare.
+{{< mailing-list "Iscriviti" "1d02efac-cfe2-49bb-b82c-4170e0e942ba" >}}
+
+Per preservare la tua privacy non usiamo nessun servizio di terze parti per processare i tuoi dati: hostiamo la nostra istanza di Listmonk sui nostri server!
+
+Puoi anche seguirci sui social:
+
+- Twitter - [@h4ckbs](https://twitter.com/h4ckbs)
+- Instagram - [@h4ckbs](https://instagram.com/h4ckbs)
+- Canale Telegram - [hack.bs](https://t.me/h4ckbs)
 
 ## Fondatori
 
