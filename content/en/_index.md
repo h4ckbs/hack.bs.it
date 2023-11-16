@@ -16,7 +16,7 @@ We are a space for hackers, designed by hackers.
 
 Our office is near the metro stop Vittoria, in Contrada del Cavalletto 24, Brescia.
 
-During the day we are a [coworking space]({{< ref "coworking" >}}]), while in the night and in the weekends we host [events]({{< ref "events" >}}]) such as
+During the day we are a [coworking space]({{< ref "coworking" >}}), while in the night and in the weekends we host [events]({{< ref "events" >}}) such as
 workshops, meetups, hackathons and more.
 
 We are funded through voluntary contributions from individuals and private companies: if you want to support our project consider [making a donation]({{< ref "donate" >}}).

@@ -17,6 +17,6 @@ In the past few months, we've organized various events, including:
 
 ## Coming soon
 
-We don't have any events on the agenda at the moment. Stay tuned!
+25th November 2023, hack.bs meetup 0x004 - "Se hai una passione, facci un podcast" with turtlecute
 
 {{< /framed >}}

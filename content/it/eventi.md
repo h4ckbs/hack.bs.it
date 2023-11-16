@@ -16,7 +16,7 @@ Negli ultimi mesi abbiamo organizzato vari eventi, tra cui:
 
 ## Prossimi eventi
 
-Non abbiamo eventi in programma per ora. Stay tuned!
+Sabato 25 Novembre 2023, hack.bs meetup 0x004 - "Se hai una passione, facci un podcast" con turtlecute
 
 {{< /framed >}}
 
