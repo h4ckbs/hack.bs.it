@@ -1,6 +1,6 @@
 ---
 title: "Cypherpunks"
-date: 2022-12-15T23:28:36+01:00
+description: "Il manifesto cypherpunk tradotto in Italiano"
 ---
 
 # Il manifesto Cypherpunk

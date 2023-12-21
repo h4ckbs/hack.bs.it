@@ -1,6 +1,5 @@
 ---
 title: "Livestream"
-date: 2023-06-14
 menu: "main"
 ---
 

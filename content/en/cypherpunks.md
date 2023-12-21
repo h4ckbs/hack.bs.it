@@ -1,6 +1,6 @@
 ---
 title: "Cypherpunks"
-date: 2022-12-15T23:10:19+01:00
+description: "The cypherpunk manifesto"
 ---
 
 # A Cypherpunk's Manifesto

@@ -1,6 +1,5 @@
 ---
 title: "Fai una donazione"
-date: 2022-12-15T23:47:41+01:00
 menu: "main"
 weight: 5
 ---

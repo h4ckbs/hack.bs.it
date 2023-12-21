@@ -1,6 +1,6 @@
 ---
 title: "Coworking"
-date: 2023-10-18T17:40:34+02:00
+description: "hack.bs is a coworking space open from Monday to Friday, from 9:00 to 18:00"
 menu: "main"
 weight: 2
 ---
@@ -20,7 +20,5 @@ Monthly membership : 120€
 Quarterly membership: 300€
 
 {{< /framed >}}
-
-We have limited seats, and therefore, we've had to implement a waiting list. If you're interested in the coworking space please fill out [this form](https://forms.hack.bs.it/form/5V9yVl), and we'll get in touch with you as soon as possible!
 
 Please note that the coworking space is open to members only; the membership fee is €10 per year and can be obtained directly at our location.

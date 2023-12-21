@@ -1,6 +1,5 @@
 ---
 title: "Mailing List"
-date: 2022-12-15T23:48:06+01:00
 ---
 
 If you'd like to receive updates about our hackerspace, event reminders, and more you can subscribe to our mailing list.

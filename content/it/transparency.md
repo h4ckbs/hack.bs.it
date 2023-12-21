@@ -1,6 +1,5 @@
 ---
 title: "Transparency"
-date: 2022-12-15T23:47:47+01:00
 ---
 
 In questa pagina di trasparenza puoi trovare le spese sostenute dall'hackerspace - in questo modo ognuno puó tener d'occhio come spendiamo le risorse che abbiamo.

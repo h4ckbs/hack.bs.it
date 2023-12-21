@@ -1,6 +1,6 @@
 ---
 title: "Coworking"
-date: 2023-10-18T17:40:34+02:00
+description: "hack.bs è un coworking space aperto dal Lunedí al Venerdí, dalle 9:00 alle 18:00"
 menu: "main"
 weight: 2
 ---
@@ -20,7 +20,5 @@ Abbonamento mensile: 120€
 Abbonamento trimestrale: 300€
 
 {{< /framed >}}
-
-Abbiamo posti limitati, e per questo, siamo stati obbligati a implementare una lista d'attesa. Se sei interessato al coworking, compila [questo form](https://forms.hack.bs.it/form/5V9yVl) e ti contatteremo al piú presto!
 
 Ricordiamo che l'accesso al coworking space è riservato ai nostri membri; il costo della membership è di 10€ l'anno, e si puó sottoscrivere direttamente in sede.

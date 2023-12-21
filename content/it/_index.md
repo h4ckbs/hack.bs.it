@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2022-12-15T23:28:32+01:00
+description: "Siamo hack.bs, un coworking e hackerspace situato a Brescia"
 menu: "main"
 weight: 1
 ---
