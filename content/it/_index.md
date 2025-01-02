@@ -15,7 +15,7 @@ Siamo uno spazio per hacker, creato da hacker.
 
 La nostra sede è vicino alla metro Vittoria, in Contrada del Cavalletto 24, Brescia.
 
-Durante il giorno la nostra sede ospita un [coworking space]({{< ref "coworking" >}}), invece la sera e nei weekend organizziamo [eventi]({{< ref "eventi" >}}) come workshop, meetup, hackathon e tanto altro.
+Durante il giorno la nostra sede ospita un [coworking space]({{< ref "coworking" >}}), invece la sera e nei weekend organizziamo [eventi]({{< ref "events" >}}) come workshop, meetup, hackathon e tanto altro.
 
 Siamo finanziati principalemente attraverso contribuzioni volontarie da individui e aziende private: se vuoi supportarci, considera di [fare una donazione]({{< ref "donate" >}}).
 La nostra pagina di [trasparenza]({{< ref "transparency" >}}) mostra nel dettaglio come gestiamo i fondi raccolti.

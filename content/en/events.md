@@ -10,11 +10,11 @@ We regularly organize events open to our members, including hackerspace nights, 
 
 ## Coming soon
 
-- hack.bs `Christmas cocktail` - 23rd December 2023, 17:30
+- hack.bs `Game Night` - January 11th 2025, 18:30
 
 {{< /framed >}}
 
-## Event log
+## Meetup log
 - hack.bs meetup 0x001 - "Introduzione tecnica a `Bitcoin`" with Alekos Filini - [Youtube](https://www.youtube.com/watch?v=B4WfofLGdbI&pp=ygUGaGFja2Jz)
 - hack.bs meetup 0x002 - "`Rust` vs the others" with Daniela Brozzoni - [Youtube](https://www.youtube.com/watch?v=pW0PwlqTPVk&t=4s&pp=ygUGaGFja2Jz)
 - hack.bs meetup 0x003 - "Introduzione a `Wireguard`, una VPN moderna ispirata a SSH" with Simone Degiacomi

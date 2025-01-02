@@ -11,11 +11,11 @@ Organizziamo regolarmente eventi aperti ai nostri membri, fra cui serate hackers
 
 ## Prossimi eventi
 
-- hack.bs `aperitivo di Natale` - 23 Dicembre 2023 ore 17:30
+- hack.bs `Game Night` - 11 Gennaio 2025, 18:30
 
 {{< /framed >}}
 
-## Log eventi passati
+## Log meetup passati
 
 - hack.bs meetup 0x001 - "Introduzione tecnica a `Bitcoin`" con Alekos Filini - [Youtube](https://www.youtube.com/watch?v=B4WfofLGdbI&pp=ygUGaGFja2Jz)
 - hack.bs meetup 0x002 - "`Rust` vs the others" con Daniela Brozzoni - [Youtube](https://www.youtube.com/watch?v=pW0PwlqTPVk&t=4s&pp=ygUGaGFja2Jz)

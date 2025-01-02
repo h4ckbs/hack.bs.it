@@ -47,6 +47,9 @@ paginate = 5
   creator = "h4ckbs"
   site = "h4ckbs"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [languages]
   [languages.en]
     languageName = "English"
