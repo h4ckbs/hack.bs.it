@@ -11,8 +11,6 @@ Organizziamo regolarmente eventi aperti ai nostri membri, fra cui serate hackers
 
 ## Prossimi eventi
 
-- hack.bs `Game Night` - 11 Gennaio 2025, 18:30
-
 {{< /framed >}}
 
 ## Log meetup passati

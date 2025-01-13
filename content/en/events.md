@@ -10,8 +10,6 @@ We regularly organize events open to our members, including hackerspace nights, 
 
 ## Coming soon
 
-- hack.bs `Game Night` - January 11th 2025, 18:30
-
 {{< /framed >}}
 
 ## Meetup log
