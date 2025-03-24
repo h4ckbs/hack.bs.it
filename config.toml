@@ -2,7 +2,9 @@ baseurl = "https://hack.bs.it/"
 theme = "terminal"
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
-paginate = 5
+
+[pagination]
+pagerSize = 5
 
 [params]
   # dir name of your main content (default is `content/posts`).
