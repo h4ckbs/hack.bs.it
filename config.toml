@@ -69,7 +69,7 @@ unsafe = true
 
     [languages.en.params.logo]
       logoText = "hack.bs"
-      logoHomeLink = "/"
+      logoHomeLink = "/en"
 
   [languages.it]
     languageName = "Italiano"
