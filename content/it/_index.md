@@ -34,7 +34,7 @@ Per preservare la tua privacy non usiamo nessun servizio di terze parti per proc
 
 Puoi anche seguirci sui social:
 
-- [Community Discord](https://discord.gg/bu9MPmBn)
+- [Community Discord](https://discord.gg/3qUQzK37Uk)
 - Twitter - [@h4ckbs](https://twitter.com/h4ckbs)
 - Instagram - [@h4ckbs](https://instagram.com/h4ckbs)
 - Canale Telegram - [hack.bs](https://t.me/h4ckbs)
