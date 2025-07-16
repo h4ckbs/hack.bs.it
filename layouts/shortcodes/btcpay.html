@@ -1,5 +1,5 @@
 <style> .btcpay-form { width: 100%; display: inline-flex; align-items: center; justify-content: center; } .btcpay-form--inline { flex-direction: row; } .btcpay-form--block { flex-direction: column; } .btcpay-form--inline .submit { margin-left: 15px; } .btcpay-form--block select { margin-bottom: 10px; } .btcpay-form .btcpay-custom-container{ text-align: center; }.btcpay-custom { display: flex; align-items: center; justify-content: center; } .btcpay-form .plus-minus { cursor:pointer; font-size:25px; line-height: 25px; background: #DFE0E1; height: 30px; width: 45px; border:none; border-radius: 60px; margin: auto 5px; display: inline-flex; justify-content: center; } .btcpay-form select { -moz-appearance: none; -webkit-appearance: none; appearance: none; color: currentColor; background: transparent; border:1px solid transparent; display: block; padding: 1px; margin-left: auto; margin-right: auto; font-size: 11px; cursor: pointer; } .btcpay-form select:hover { border-color: #ccc; } .btcpay-form option { color: #000; background: rgba(0,0,0,.1); } .btcpay-input-price { -moz-appearance: textfield; border: none; box-shadow: none; text-align: center; font-size: 25px; margin: auto; border-radius: 5px; line-height: 35px; background: #fff; }.btcpay-input-price::-webkit-outer-spin-button, .btcpay-input-price::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; } </style>
-<form method="POST" action="https://pay.btcpricetshirt.com/api/v1/invoices" class="btcpay-form btcpay-form--block">
+<form method="POST" action="https://pay.hack.bs.it/api/v1/invoices" class="btcpay-form btcpay-form--block">
   <input type="hidden" name="storeId" value="HBjayGzVeCtRAcoWhDEErfJMzT9xQnqANxHLCVjC3tUN" />
   <input type="hidden" name="jsonResponse" value="true" />
   <div class="btcpay-custom-container">
@@ -14,12 +14,12 @@
     </select>
   </div>
 <button type="submit" class="submit" name="submit" style="min-width:168px;min-height:46px;border-radius:4px;border-style:none;background-color:#0f3b21;cursor:pointer;" title="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor"><span style="color:#fff">Donate with</span>
-<img src="https://pay.btcpricetshirt.com/img/paybutton/logo.svg" style="height:46px;display:inline-block;padding:5% 0 5% 5px;vertical-align:middle;">
+<img src="https://pay.hack.bs.it/img/paybutton/logo.svg" style="height:46px;display:inline-block;padding:5% 0 5% 5px;vertical-align:middle;">
 </button></form>
 <script>
     if (!window.btcpay) {
         var script = document.createElement('script');
-        script.src = "https://pay.btcpricetshirt.com/modal/btcpay.js";
+        script.src = "https://pay.hack.bs.it/modal/btcpay.js";
         document.getElementsByTagName('head')[0].append(script);
     }
     function handleFormSubmit(event) {
